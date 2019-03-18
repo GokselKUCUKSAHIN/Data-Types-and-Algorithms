@@ -1,0 +1,9 @@
+﻿  dllStudent.cpp
+c:\users\jellybeanci\source\repos\dllstudent\dllstudent\dllstudent.cpp(703): warning C4018: '<': signed/unsigned mismatch
+c:\users\jellybeanci\source\repos\dllstudent\dllstudent\dllstudent.cpp(707): warning C4018: '<': signed/unsigned mismatch
+c:\users\jellybeanci\source\repos\dllstudent\dllstudent\dllstudent.cpp(947): warning C4018: '>': signed/unsigned mismatch
+c:\users\jellybeanci\source\repos\dllstudent\dllstudent\dllstudent.cpp(1292): warning C4101: 'srt': unreferenced local variable
+c:\users\jellybeanci\source\repos\dllstudent\dllstudent\dllstudent.cpp(1352): warning C4101: 'srt': unreferenced local variable
+c:\users\jellybeanci\source\repos\dllstudent\dllstudent\dllstudent.cpp(1431): warning C4101: 'srt': unreferenced local variable
+c:\users\jellybeanci\source\repos\dllstudent\dllstudent\dllstudent.cpp(1835): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  dllStudent.vcxproj -> C:\Users\Jellybeanci\source\repos\dllStudent\Debug\dllStudent.exe

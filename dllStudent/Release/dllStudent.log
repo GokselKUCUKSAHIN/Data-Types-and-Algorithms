@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  dllStudent.cpp
+c:\users\jellybeanci\source\repos\dllstudent\dllstudent\dllstudent.cpp(681): warning C4018: '<': signed/unsigned mismatch
+c:\users\jellybeanci\source\repos\dllstudent\dllstudent\dllstudent.cpp(685): warning C4018: '<': signed/unsigned mismatch
+c:\users\jellybeanci\source\repos\dllstudent\dllstudent\dllstudent.cpp(1175): warning C4101: 'srt': unreferenced local variable
+c:\users\jellybeanci\source\repos\dllstudent\dllstudent\dllstudent.cpp(1238): warning C4101: 'srt': unreferenced local variable
+c:\users\jellybeanci\source\repos\dllstudent\dllstudent\dllstudent.cpp(1316): warning C4101: 'srt': unreferenced local variable
+  Generating code
+  All 290 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  dllStudent.vcxproj -> C:\Users\Jellybeanci\source\repos\dllStudent\Release\dllStudent.exe
